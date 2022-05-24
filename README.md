@@ -9,17 +9,17 @@ Thanks goes to these wonderfull people ✨
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Harrylepap">
-            <img src="https://avatars.githubusercontent.com/u/17026924?v=4" width="100;" alt="Harrylepap"/>
-            <br />
-            <sub><b>[Dev] Bako Harry | HarrylepaP</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Tsirimaholy">
             <img src="https://avatars.githubusercontent.com/u/72337259?v=4" width="100;" alt="Tsirimaholy"/>
             <br />
             <sub><b>P3RM1_D3N1ED</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Harrylepap">
+            <img src="https://avatars.githubusercontent.com/u/17026924?v=4" width="100;" alt="Harrylepap"/>
+            <br />
+            <sub><b>[Dev] Bako Harry | HarrylepaP</b></sub>
         </a>
     </td>
     <td align="center">
@@ -169,7 +169,7 @@ Thanks goes to these wonderfull people ✨
         <a href="https://github.com/njaina">
             <img src="https://avatars.githubusercontent.com/u/98956159?v=4" width="100;" alt="njaina"/>
             <br />
-            <sub><b>njaina</b></sub>
+            <sub><b>Njaina</b></sub>
         </a>
     </td></tr>
 </table>
